@@ -10,9 +10,9 @@ import Products from './assets/Pages/Products'
 import Cart from './assets/Pages/Cart'
 import LoginSingup from './assets/Pages/LoginSingup'
 import Footer from './Components/Footer/Footer'
-import men_banner from './assets/banner_mens.png'
-import women_banner from './assets/banner_women.png'
-import kid_banner from './assets/banner_kids.png'
+import men_banner from '../../my-react-app/src/assets/banner_mens.png'
+import women_banner from '../../my-react-app/src/assets/banner_women.png'
+import kid_banner from '../../my-react-app/src/assets/banner_kids.png'
 function App() {
  
 
